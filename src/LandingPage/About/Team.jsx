@@ -5,7 +5,7 @@ import Kailash from "../../assets/ZerodhaAssets/Kailash.jpg";
 import Venu from "../../assets/ZerodhaAssets/Venu.jpg";
 import Hanan from "../../assets/ZerodhaAssets/Hanan.jpg";
 import Seema from "../../assets/ZerodhaAssets/Seema.jpg";
-import Karthik from "../../assets/ZerodhaAssets/Karthik.jpg";
+import Karthik from "../../assets/ZerodhaAssets/karthik.jpg";
 
 function Team() {
   const [showNikhil, setShowNikhil] = useState(false);

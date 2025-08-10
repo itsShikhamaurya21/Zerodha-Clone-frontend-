@@ -1,14 +1,14 @@
 import React from "react";
 import ReactDOM from 'react-dom/client';
 import {BrowserRouter, Routes, Route} from "react-router-dom"; 
-import HomePage from "./Landing Page/Home/HomePage";
-import AboutPage from "./Landing Page/About/AboutPage";
-import PricingPage from "./Landing Page/Pricing/PricingPage";
-import SupportPage from "./Landing Page/Support/SupportPage";
-import SignupPage from "./Landing Page/Signup/SignupPage";
-import ProductPage from "./Landing Page/Products/ProductPage";
-import Navbar from "./Landing Page/Navbar";
-import Footer from "./Landing Page/Footer";
+import HomePage from "./LandingPage/Home/HomePage";
+import AboutPage from "./LandingPage/About/AboutPage";
+import PricingPage from "./LandingPage/Pricing/PricingPage";
+import SupportPage from "./LandingPage/Support/SupportPage";
+import SignupPage from "./LandingPage/Signup/SignupPage";
+import ProductPage from "./LandingPage/Products/ProductPage";
+import Navbar from "./LandingPage/Navbar";
+import Footer from "./LandingPage/Footer";
 import NotFound from "./NotFound";
 
 function App() {
