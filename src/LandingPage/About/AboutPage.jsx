@@ -1,8 +1,8 @@
 import React from "react";
-import Navbar from "../Navbar";
-import Hero from "./hero";
-import Team from "./Team";
-import Footer from "../Footer";
+
+import Hero from "../About/Hero.jsx"
+import Team from "../About/Team.jsx";
+
 function AboutPage() {
   return (
     <>
